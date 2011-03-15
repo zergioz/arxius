@@ -21,7 +21,7 @@ define('_CAPTCHAKEYPRIVATE','6LeaeL8SAAAAAIUylL7DfT-sOlDqiSpNldFkrC6r');
 /**
  * SYSTEM VARS
  */
-define('_POC','sergio.f.rodriguez@saic.com');
-define('_BOKCONTACTFORMNAME','B.O.K Contact Form');
+define('_POC','serrod@gmail.com');
+define('_BOKCONTACTFORMNAME','Contact Form');
 define('_SYSTEMFOLDER','DMS8')
 ?>
